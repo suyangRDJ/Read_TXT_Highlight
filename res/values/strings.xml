@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, _TxtReaderDemoActivity!</string>
+    <string name="app_name">_TxtReaderDemo</string>
+    <string name="content_title">正文阅读</string>
+    <string name="main_title">新概念英语</string>
+    <string name="slide_tv">拖动选择单词等级：</string>
+
+</resources>
